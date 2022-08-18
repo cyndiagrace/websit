@@ -1,0 +1,81 @@
+.body-cart {
+    width: 85%;
+    height: 90%;
+    background-color: #F7ECDE;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.tittle{
+    color: rgb(139, 65, 120);
+    text-align: center;
+}
+.marquee {    
+    text-align: center; 
+    color:#dd398b;   
+    margin: 0 25%;
+    margin-top: 25px;
+}
+.taco_container {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-block;
+  
+  
+}
+.img_class{
+    width:30%;
+    float:left;
+    height:500px;
+    margin: 15px;
+    
+}
+.footer{
+    background-color: #bb7e95;
+    width: 100%;
+    height: 100px;
+    float: inline-end;
+    }
+    .fa {
+        padding: 10px;
+        font-size: 20px;
+        width: 20px;
+        text-align: center;
+        text-decoration: none;
+        margin: 15px 20px;
+        margin-top: 25px;
+        margin-left: 25px;
+        border-radius: 50%;
+        
+      }
+      
+      .fa:hover {
+          opacity: 0.5;
+      }
+      
+      .fa-facebook {
+        background: #3B5998;
+        color: white;
+      }
+      
+      .fa-twitter {
+        background: #55ACEE;
+        color: white;
+      }
+      .fa-google {
+        background: #dd4b39;
+        color: white;
+        
+      }
+      
+      .footer-icon{
+          margin-left: 75%;
+      }
